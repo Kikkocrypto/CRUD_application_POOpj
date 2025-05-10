@@ -1,0 +1,25 @@
+[ {
+  "grade_id" : "f021f4f7-25cb-49f8-bfd3-8258438bd060",
+  "student_id" : "66c86b4c-320a-4379-906c-171581019f69",
+  "subject_id" : "d8c8665a-ccab-4d8e-9b78-014d4be34e9d",
+  "grade" : 24,
+  "gradingDate" : [ 2025, 5, 9 ]
+}, {
+  "grade_id" : "ee2c32d1-31fd-4b01-bed5-699b84a82aed",
+  "student_id" : "2ff60f17-695c-46e7-8d0f-07cc6faf76a2",
+  "subject_id" : "4897e4ba-9b51-47c8-9a1d-27e4e26f19ae",
+  "grade" : 30,
+  "gradingDate" : [ 2025, 5, 9 ]
+}, {
+  "grade_id" : "7fcc613b-bc5a-41eb-9512-d9155cc6d4cb",
+  "student_id" : "b0b2482c-d0d0-4573-8d36-42ee230ad39d",
+  "subject_id" : "181d5ce2-11a5-40b3-b856-bdcc1a7df66c",
+  "grade" : 10,
+  "gradingDate" : [ 2025, 5, 9 ]
+}, {
+  "grade_id" : "697bafa8-2766-46ec-8576-a5a1bdbf276f",
+  "student_id" : "66c86b4c-320a-4379-906c-171581019f69",
+  "subject_id" : "7237c3e9-ac8a-4edd-8fdb-ae52ca75ec60",
+  "grade" : 30,
+  "gradingDate" : [ 2025, 5, 8 ]
+} ]

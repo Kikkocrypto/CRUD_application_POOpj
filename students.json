@@ -1,0 +1,31 @@
+[ {
+  "student_id" : "b0b2482c-d0d0-4573-8d36-42ee230ad39d",
+  "firstName" : "Naruto",
+  "lastName" : "Uzumaki",
+  "email" : "naruto@gmail.com",
+  "academicGroup" : "NAR02"
+}, {
+  "student_id" : "2ff60f17-695c-46e7-8d0f-07cc6faf76a2",
+  "firstName" : "Johan",
+  "lastName" : "Liebert",
+  "email" : "jolib@gmail.com",
+  "academicGroup" : "PSY0F"
+}, {
+  "student_id" : "edb157ab-a6f1-44aa-8b8b-2809537f2fd9",
+  "firstName" : "Francesco",
+  "lastName" : "Damiano",
+  "email" : "damiano@gmail.com",
+  "academicGroup" : "FRA00"
+}, {
+  "student_id" : "66c86b4c-320a-4379-906c-171581019f69",
+  "firstName" : "Light",
+  "lastName" : "Yagami",
+  "email" : "lightyagami@gmail.com",
+  "academicGroup" : "JPN02"
+}, {
+  "student_id" : "ec7198d0-ec70-4ac6-a9be-cb914f0b8204",
+  "firstName" : "Tanjiro",
+  "lastName" : "Kamado",
+  "email" : "tamadok@gmail.com",
+  "academicGroup" : "AN05"
+} ]

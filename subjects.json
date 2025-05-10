@@ -1,0 +1,21 @@
+[ {
+  "subject_id" : "181d5ce2-11a5-40b3-b856-bdcc1a7df66c",
+  "subjectName" : "English",
+  "acronym" : "ENG",
+  "evaluationType" : "EXAM"
+}, {
+  "subject_id" : "7237c3e9-ac8a-4edd-8fdb-ae52ca75ec60",
+  "subjectName" : "Computer programming and programming languages II",
+  "acronym" : "INF02",
+  "evaluationType" : "EXAM"
+}, {
+  "subject_id" : "d8c8665a-ccab-4d8e-9b78-014d4be34e9d",
+  "subjectName" : "Project Oriented Programming",
+  "acronym" : "INF05P",
+  "evaluationType" : "EXAM"
+}, {
+  "subject_id" : "4897e4ba-9b51-47c8-9a1d-27e4e26f19ae",
+  "subjectName" : "Psychology",
+  "acronym" : "PSY",
+  "evaluationType" : "COLLOQUIUM"
+} ]
