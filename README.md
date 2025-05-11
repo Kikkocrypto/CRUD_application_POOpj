@@ -22,7 +22,7 @@ It was created as part of the Object-Oriented-Programming (OOP) course attendend
 ---
 ## 🚀 How to execute the project
 
-1. git clone https://github.com/your-username/your-repo-name.git
+1. git clone https://github.com/Kikkocrypto/CRUD_application_POOpj.git
 2. Use your IDE to start the application.
 
 ---
